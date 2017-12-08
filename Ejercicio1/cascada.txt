@@ -1,0 +1,16 @@
+En el desarrollo en cascada, tambien llamado modelo en cascada, es el enfoque metodologico que ordena rigurosamente las etapas del ciclo de vida
+del software, de tal forma que el inicio de cada etapa debe esperar a la finalizacion de la inmediatamente anterior.
+
+Un ejemplo de los procesos o flujos de trabajo que maneja esta metodología de desarrollo es: Análisis de requisitos Diseño del Sistema Diseño del Programa 
+Codificación Pruebas Implantación Mantenimiento De esta forma, cualquier error de diseño detectado en la etapa de prueba conduce necesariamente al rediseño 
+y nueva programación del código afectado, aumentando los costes del desarrollo. La palabra cascada sugiere, mediante la metáfora de la fuerza de la gravedad, 
+el esfuerzo necesario para introducir un cambio en las fases más avanzadas de un proyecto.
+
+Desventajas
+En la vida real, un proyecto rara vez sigue una secuencia lineal, esto crea una mala implementación del modelo, lo cual hace que lo lleve al fracaso. 
+El proceso de creación del software tarda mucho tiempo ya que debe pasar por el proceso de prueba y hasta que el software no esté completo no se opera. 
+Esto es la base para que funcione bien.
+
+Ventajas
+Se tiene todo bien organizado y no se mezclan las fases. Es perfecto para proyectos que son rígidos, y además donde se especifiquen muy bien los requerimientos 
+y se conozca muy bien la herramienta a utilizar.

@@ -1,0 +1,16 @@
+Etapas o fases del ciclo de vida del software
+
+*1* Definición objetivos del software
+*2* Investigación de requisitos y factibilidad: recopilar y formalizar los requisitos.
+*3* Etapa de análisis y diseño general: requisitos generales de la arquitectura del software.
+*4* Diseño detallado: definición más precisa de cada módulo o subconjunto del software.
+*5* Programación e implementación: se programa lo especificado en la etapa de diseño.
+*6* Prueba: se evalúa cada módulo o subconjunto del software de forma individual y en forma integrada.
+*7* Creación de la documentación: información sobre el software para los usuarios.
+*8* Mantenimiento: mantenimiento correctivo y mantenimiento continuo.
+
+Esta clasificación no es estricta, puede haber más o menos etapas de acuerdo al nivel de detalle conceptual que se desee. Además las etapas no necesariamente se realizan en ese orden ni de forma serial.
+
+La clasificación, el orden y otros aspectos del ciclo de vida dependen del modelo de ciclo de vida que se esté utilizando. El modelo de ciclo de vida es acordado entre los desarrolladores y posiblemente sus clientes.
+
+Existen diferentes modelos de ciclo de vida del software: modelo en cascada, modelo en V, modelo rápido o de prototipos, RAD, DSDM, proceso unificado, etc.

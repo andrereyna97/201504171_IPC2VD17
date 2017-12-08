@@ -1,0 +1,13 @@
+Desarrollo iterativo y creciente(o incremental) es un proceso de desarrollo desoftware, creado en respuesta a las debilidades del modelo tradicional decascada.Para apoyar el desarrollo de proyectos por medio de este modelo se han creadoframeworks(entornos de trabajo), 
+de los cuales los dos más famosos son elRational Unified Process y el Dynamic Systems Devepment Method. El desarrolloincremental e iterativo es también una parte esencial de un tipo de programaciónconocido como Extreme Programming y los demás frameworks de desarrollorápido de software.
+
+Ciclo de vida
+La idea principal detrás de mejoramiento iterativo es desarrollar un sistema deprogramas de manera incremental, permitiéndole al desarrollador sacar ventaja delo que se ha aprendido a lo largo del desarrollo anterior, incrementando, versionesentregables del sistema. 
+El aprendizaje viene de dos vertientes: el desarrollo delsistema, y su uso (mientras sea posible). Los pasos claves en el proceso soncomenzar con una implementación simple de los requerimientos del sistema, eiterativamente mejorar la secuencia evolutiva de versiones 
+hasta que el sistemacompleto esté implementado. En cada iteración, se realizan cambios en el diseñoy se agregan nuevas funcionalidades y capacidades al sistema.El proceso en sí mismo consiste de:
+ 
+Etapa de inicialización
+ 
+Etapa de iteración
+ 
+Lista de control de proyecto
